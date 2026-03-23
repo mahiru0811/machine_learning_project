@@ -3,6 +3,11 @@ print("DCM git")
 print("hello clm chung mau")
 print("moi")
 print("new")
+
 print("toi thich the day, lam sao")
 print("moi lam")
 print("bo may thich the")
+print ("moi")
+print("thay doi moi")
+print ("thay doi mo")
+
